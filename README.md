@@ -33,7 +33,7 @@ In automotive marketplaces and recommendation systems, predicting user-centric v
 
 - k-Nearest Neighbors (k-NN)
 
--Support Vector Machine (SVM)
+- Support Vector Machine (SVM)
 
 3. Model Selection and Evaluation:
 
